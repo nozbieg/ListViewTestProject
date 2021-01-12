@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application Title="ListViewTestProject">
+  <SchemaModules>
+    <SchemaModule Name="SystemModule" Version="20.2.4.0" IsNewNode="True" />
+  </SchemaModules>
+  <Views>
+    <ListView Id="TestClass_ListView">
+      <Columns>
+        <ColumnInfo Id="SubTesty" PropertyName="SubTesty" IsNewNode="True" />
+      </Columns>
+    </ListView>
+  </Views>
+</Application>
